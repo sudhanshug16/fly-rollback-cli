@@ -1,6 +1,8 @@
 # fly-rollback-cli
 A small CLI to rollback fly.io deploys
 
+*Pure shell script, zero dependency, no config required, uses the fly cli underneath.*
+
 ## Installation
 
 To install(or update) the CLI, follow these steps:
